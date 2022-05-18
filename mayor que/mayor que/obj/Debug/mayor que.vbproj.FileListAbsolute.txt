@@ -1,0 +1,10 @@
+E:\la U\319\primer parcial\pregunta 1 vb\mayor que\mayor que\bin\Debug\mayor que.exe.config
+E:\la U\319\primer parcial\pregunta 1 vb\mayor que\mayor que\bin\Debug\mayor que.exe
+E:\la U\319\primer parcial\pregunta 1 vb\mayor que\mayor que\bin\Debug\mayor que.pdb
+E:\la U\319\primer parcial\pregunta 1 vb\mayor que\mayor que\bin\Debug\mayor que.xml
+E:\la U\319\primer parcial\pregunta 1 vb\mayor que\mayor que\obj\Debug\WindowsApplication1.Form1.resources
+E:\la U\319\primer parcial\pregunta 1 vb\mayor que\mayor que\obj\Debug\WindowsApplication1.Resources.resources
+E:\la U\319\primer parcial\pregunta 1 vb\mayor que\mayor que\obj\Debug\mayor que.vbproj.GenerateResource.Cache
+E:\la U\319\primer parcial\pregunta 1 vb\mayor que\mayor que\obj\Debug\mayor que.exe
+E:\la U\319\primer parcial\pregunta 1 vb\mayor que\mayor que\obj\Debug\mayor que.xml
+E:\la U\319\primer parcial\pregunta 1 vb\mayor que\mayor que\obj\Debug\mayor que.pdb
